@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://mattmikaelson.github.io
+title: Amazon Market Research & Keyword Tool - AMZInsight
+email: mattmikaelson4@gmail.com
+author: Matt Mikaelson
+description: My awesome new site
+paginate: 5
+google_analytics: 
