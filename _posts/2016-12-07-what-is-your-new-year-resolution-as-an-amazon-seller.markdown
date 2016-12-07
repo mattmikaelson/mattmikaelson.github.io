@@ -5,6 +5,8 @@ layout: post
 tags: [Amazon, Amazon, Sellers, Amazon, Selling, Selling, on, Amazon, Amazon, Tracker, Amazon, Market, Research]
 categories: [Amazon_Sales]
 ---
+http://www.wsms.org.uk/mediation-news/wp-content/uploads/2016/01/New-Years-Resolutions.jpg
+
 2016 has almost ended and it has been a great year for Amazon sellers. With 2017 knocking our doors, the best method to enhance your experience as a seller on Amazon is to look back at your journey last year. What selling strategy was the most productive for you? Which products helped you achieve a higher ROI? While most New Year’s resolutions revolve around losing weight or leaving or starting a particular habit, an Amazon seller must make a New Year resolution which would actually be helpful in expanding his Amazon business. Following is the list of objectives, if achieved, would surely be helpful in maximizing revenue next year:-
 
 <h3>1) Add new products to your ‘attaché case’</h3>
